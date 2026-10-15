@@ -6,7 +6,7 @@ GitHub Pages car la Play Console exige des URL publiques.
 | Document | URL |
 | --- | --- |
 | Politique de confidentialité | <https://johnfrancklin.github.io/fiar-legal/> |
-| Suppression de compte | <https://johnfrancklin.github.io/fiar-legal/suppression-compte/> |
+| Suppression de compte | <https://johnfrancklin.github.io/fiar-legal/suppression-compte.html> |
 
 ## Source
 

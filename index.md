@@ -152,7 +152,7 @@ Vous disposez des droits suivants sur vos données personnelles :
 - **Rectification** — corriger une donnée inexacte ou incomplète
 - **Suppression** — demander l'effacement de votre compte et de vos données
   (voir la procédure détaillée sur la page
-  [Suppression de compte](https://johnfrancklin.github.io/fiar-legal/suppression-compte/))
+  [Suppression de compte](https://johnfrancklin.github.io/fiar-legal/suppression-compte.html))
 - **Opposition** — vous opposer à un traitement, dans la limite des
   fonctionnalités qui dépendent de ce traitement
 - **Portabilité** — recevoir vos données dans un format lisible par machine
